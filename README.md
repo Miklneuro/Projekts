@@ -1,3 +1,8 @@
+
+Ссылка на презентацию 
+https://docs.google.com/presentation/d/11CJMO67JpHRbAy7GjEl_VgDWKwFS9q11/edit?usp=sharing&ouid=110566780482943638623&rtpof=true&sd=true
+
+
 # Чат-бот "Зарядье'
 
 https://github.com/Miklneuro/zaryadye_bot
